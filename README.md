@@ -1,6 +1,6 @@
 # Relaxer Web App
 
-This is a Exercise-Project created from [Brad Traversy](https://github.com/bradtraversy).
+This is a Exercise-Project created by [Brad Traversy](https://github.com/bradtraversy).
 
 <https://www.youtube.com/watch?v=l-1ZrU6avzI>
 
